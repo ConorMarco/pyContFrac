@@ -1,3 +1,6 @@
+Moved to https://codeberg.org/lucamarx/pyContFrac
+=================================================
+
 pyContFrac
 ==========
 
